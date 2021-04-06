@@ -1,8 +1,11 @@
 # 2021 Web Science &amp; Digital Libraries Research Group Expo
+
 2021-04-12
+
 noon-2:30pm EDT
 
 All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://twitter.com/WebSciDL)).
+
 Zoom URL: (tbd)
 
 | Time  | Presentation |
