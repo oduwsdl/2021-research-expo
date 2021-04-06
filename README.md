@@ -5,7 +5,7 @@ noon-2:30pm EDT
 
 All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://twitter.com/WebSciDL)).
 
-Zoom URL: (tbd)
+Zoom URL: https://odu.zoom.us/j/95912425523
 
 | Time  | Presentation |
 | --- | --- |
