@@ -10,7 +10,7 @@ Zoom URL: https://odu.zoom.us/j/95912425523
 | Time  | Presentation |
 | --- | --- |
 | noon  | Welcome and brief faculty intro ([Nelson](https://twitter.com/phonedude_mln), [Weigle](https://twitter.com/weiglemc), [Wu](https://twitter.com/fanchyna), [Jayarathna](https://twitter.com/openmaze), [Ashok](https://twitter.com/VikasGAshok1), [Poursardar](https://twitter.com/Faryane))  |
-| 12:10  | Extending Chromium: Memento-aware Web Browser <br>[Abigail Mabe](https://twitter.com/abigail_mabe) <p> [GitHub](https://github.com/oduwsdl/Memento-aware-Browser) |
+| 12:10  | [Extending Chromium: Memento-aware Web Browser](https://docs.google.com/presentation/d/1YAQl_1sPH25ZdAiEPhE5cqj8zMomLBKDQWzPS5Avw5s/edit) <br>[Abigail Mabe](https://twitter.com/abigail_mabe) <p> [GitHub](https://github.com/oduwsdl/Memento-aware-Browser) |
 | 12:35 | [What Did It Look Like: A service for creating website timelapses using the Memento framework](https://docs.google.com/presentation/d/1xoSkL_lYivGuPrDyoYIkViUCF2Qa0F520U4uDmxc9Z4/edit) <br> [Dhruv Patel](https://twitter.com/dhruv_282) <p> [GitHub](https://github.com/oduwsdl/wdill/), Twitter [@_wdill](https://twitter.com/_wdill), Instagram [@_wdill](https://www.instagram.com/_wdill/), [Tumblr](https://whatdiditlooklike.mementoweb.org/) |
 | 1:00 | A Supervised Learning Approach to Extract Metadata from Scanned Electronic Theses and Dissertations with Visual Features <br> [Muntabir Choudhury](https://twitter.com/TasinChoudhury) |
 | 1:20 | Re-Streaming and Synthesis for Real-Time Analysis <br> [Yasith Jayawardana](https://twitter.com/yasithmilinda) |
