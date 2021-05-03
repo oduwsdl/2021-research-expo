@@ -7,6 +7,8 @@ All are welcome: current, past, prospective members, and friends of WS-DL ([@Web
 
 Youtube recording of the presentations: https://www.youtube.com/watch?v=S7ddkSQlV2Y
 
+WS-DL blog: https://ws-dl.blogspot.com/2021/04/2021-04-24-2021-ws-dl-research-expo.html
+
 | Time  | Presentation |
 | --- | --- |
 | noon  | Welcome and brief faculty intro ([Nelson](https://twitter.com/phonedude_mln), [Weigle](https://twitter.com/weiglemc), [Wu](https://twitter.com/fanchyna), [Jayarathna](https://twitter.com/openmaze), [Ashok](https://twitter.com/VikasGAshok1), [Poursardar](https://twitter.com/Faryane))  |
